@@ -1,6 +1,6 @@
 # scrumdog-binaries
 
-Command Line Tools binaries for Windows.
+Command Line Tool binary for Windows.
 
 See https://scrumdog.app/ for more details
 

@@ -6,7 +6,7 @@ See https://scrumdog.app/ for more details
 
 ## To Install
 
-The program scrumdog.exe is a single executable. Copy it to somewhere suitable on your machine. It is dependant on Curl -- which is install by default on Microsoft Windows 10 and Windows 11 machines.
+The `scrumdog.exe` is a single file executable. No installation is required. Copy it to somewhere suitable on your machine and run it. It is dependant on Curl -- which is installed by default on Microsoft Windows 10 and Windows 11 machines.
 
 ## Support 
 

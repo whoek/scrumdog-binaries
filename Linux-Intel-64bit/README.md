@@ -16,7 +16,9 @@ OCaml version 4.14.0
 
 ## Shared libraries - for info
 
-ld scrumdog.exe
+
+`ld scrumdog.exe`
+
 ```
 linux-vdso.so.1 (0x00007fff4939f000)
 libsqlite3.so.0 => /lib/x86_64-linux-gnu/libsqlite3.so.0 (0x00007fa2d14f1000)

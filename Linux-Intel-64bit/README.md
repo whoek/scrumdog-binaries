@@ -1,6 +1,7 @@
 ## Usage
 
-- Download `scrumdog.exe`
+- Download `scrumdog.exe`    
+  `wget https://github.com/whoek/scrumdog-binaries/blob/main/Linux-Intel-64bit/scrumdog.exe`
 - Make it executable `chmod +x scrumdog.exe`
 - Run as `./scrumdog.exe`
 

@@ -2,8 +2,9 @@
 
 - Download the scrumdog executable:      
   `wget https://github.com/whoek/scrumdog-binaries/raw/main/Linux-Intel-64bit/scrumdog.exe`
-- Make it executable `chmod +x scrumdog.exe`
-- Run as `./scrumdog.exe`
+- Make file executable            
+  `chmod +x scrumdog.exe`
+- Execute   `./scrumdog.exe`
 
 ## Build environment - for info
 

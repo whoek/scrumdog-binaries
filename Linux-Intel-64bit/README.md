@@ -18,7 +18,7 @@ OCaml version 4.14.0
 ## Shared libraries - for info
 
 
-`ld scrumdog.exe`
+`ldd scrumdog.exe`
 
 ```
 linux-vdso.so.1 (0x00007fff4939f000)

@@ -1,4 +1,4 @@
-# scrumdog-binaries
+# Scrumdog binaries for Windows, Linux and Mac-Intel
 
 Command Line Tool binary for Windows.
 

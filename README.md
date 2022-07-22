@@ -14,5 +14,5 @@ Scrumdog is distributed as a single file executable. No installation is required
 
 ## Support 
 
-Raise an issue in this github repository, or email willem@matimba.com
+Raise an [Github Issue](https://github.com/whoek/scrumdog-binaries/issues/new)  or email willem@matimba.com
 

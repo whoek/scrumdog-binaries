@@ -12,7 +12,7 @@
 - linux-vdso.so.1 
 - libsqlite3.so.0 => /lib/x86_64-linux-gnu/libsqlite3.so.0
 - libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 
-- libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6)
+- libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6)  version `GLIBC_2.29'
 - libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 
 - libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 
 - /lib64/ld-linux-x86-64.so.2 

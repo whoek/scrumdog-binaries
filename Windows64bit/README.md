@@ -1,3 +1,8 @@
+## Installation
+
+- Download to somewhere suitable on your machine 
+- Run it via Command Line
+
 ## Environment 
 
 Scrumdog for Windows was created with:

@@ -5,6 +5,17 @@
 - Set as executable   `chmod +x scrumdog`
 - Run   `./scrumdog`
 
+## Environment 
+
+Scrumdog for Linux was created with:
+
+- OCaml version 4.14.0
+- `hostnamectl`    
+   Operating System: Debian GNU/Linux 10 (buster)    
+   Kernel: Linux 4.19.0-20-amd64    
+   Architecture: x86-64     
+- gcc (Debian 8.3.0-6) 8.3.0
+
 ## Pre-requisites
 
 `ldd scrumdox.exe`
@@ -17,13 +28,3 @@
 - libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 
 - /lib64/ld-linux-x86-64.so.2 
 
-## Environment 
-
-Scrumdog for Linux was created with:
-
-- OCaml version 4.14.0
-- `hostnamectl`    
-   Operating System: Debian GNU/Linux 10 (buster)    
-   Kernel: Linux 4.19.0-20-amd64    
-   Architecture: x86-64     
-- gcc (Debian 8.3.0-6) 8.3.0

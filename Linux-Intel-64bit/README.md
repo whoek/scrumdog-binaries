@@ -22,8 +22,8 @@
 Scrumdog for Linux was created with:
 
 - OCaml version 4.14.0
-- gcc version 9.4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.1)
 - `hostnamectl`    
    Operating System: Debian GNU/Linux 10 (buster)    
    Kernel: Linux 4.19.0-20-amd64    
    Architecture: x86-64     
+- gcc (Debian 8.3.0-6) 8.3.0

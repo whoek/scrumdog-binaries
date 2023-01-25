@@ -7,14 +7,18 @@
 
 ## Environment 
 
-Scrumdog for Linux was created with:
+Scrumdog for Linux was created on:
 
-- OCaml version 4.14.0
-- `hostnamectl`    
-   Operating System: Debian GNU/Linux 10 (buster)    
-   Kernel: Linux 4.19.0-20-amd64    
-   Architecture: x86-64     
-- gcc (Debian 8.3.0-6) 8.3.0
+`hostnamectl`
+```
+Operating System: Debian GNU/Linux 10 (buster)    
+          Kernel: Linux 4.19.0-20-amd64    
+    Architecture: x86-64
+```
+`ocamlopt --version`
+```
+4.14.0
+```
 
 ## Pre-requisites
 

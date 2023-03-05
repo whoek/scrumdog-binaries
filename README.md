@@ -2,7 +2,7 @@
 
 ## To Install
 
-Scrumdog is distributed as a single file executable. No installation is required. Just copy it to somewhere suitable on your machine and run it. 
+Scrumdog is distributed as a single executable file. No installation is required. Just copy the file somewhere suitable on your machine and run it. 
 
 ## Support 
 

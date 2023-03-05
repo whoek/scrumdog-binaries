@@ -6,4 +6,6 @@
 
 ## Environment
 
-Scrumdog for Mac was created with [OCaml](https://ocaml.org/) version 5.0
+Scrumdog for Mac was created with:
+
+- [OCaml](https://ocaml.org/) version 5.0

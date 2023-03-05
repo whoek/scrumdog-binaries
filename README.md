@@ -14,3 +14,24 @@ For more details see:
 
 Raise an [Github Issue](https://github.com/whoek/scrumdog-binaries/issues/new)  or email willem@matimba.com
 
+## Chanelog
+
+Release 0.5 Build 610 - March 4, 2023
+- Remove dependancy on curl
+- Move from curl to ocaml-tls
+
+Release 0.4 - July 20, 2022
+- Add database tables for Jira labels and components
+
+Release 0.3 - July 19, 2022
+- Add more error messages for curl
+- Add database table for Jira comments
+
+Release 0.2 - June 26, 2022
+- Add command line options
+- First public release on www.scrumdog.app
+
+Release 0.1 - June 16, 2022
+- Change tablename from zz to zz_issues
+
+

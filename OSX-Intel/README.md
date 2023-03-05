@@ -4,6 +4,6 @@
 - Save file to somewhere suitable on your machine 
 - Run it via Command Line  `./scrumdog`
 
-Scrumdog for Mac was created with:
+## Environment
 
-- OCaml version 5.0
+Scrumdog for Mac was created with [OCaml](https://ocaml.org/) version 5.0

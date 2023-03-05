@@ -5,6 +5,7 @@
 - Set as executable   `chmod +x scrumdog`
 - Run   `./scrumdog`
 
+
 ## Environment 
 
 Scrumdog for Linux was created on:
@@ -20,8 +21,27 @@ Operating System: Debian GNU/Linux 10 (buster)
 4.14.0
 ```
 
-## Pre-requisites
+## Shared object dependencies
 
+Windows
+```
+c:\> ldd scrumdog.exe
+        ntdll.dll => /cygdrive/c/WINDOWS/SYSTEM32/ntdll.dll
+        KERNEL32.DLL => /cygdrive/c/WINDOWS/System32/KERNEL32.DLL
+        KERNELBASE.dll => /cygdrive/c/WINDOWS/System32/KERNELBASE.dll
+        msvcrt.dll => /cygdrive/c/WINDOWS/System32/msvcrt.dll
+        ADVAPI32.dll => /cygdrive/c/WINDOWS/System32/ADVAPI32.dll
+        sechost.dll => /cygdrive/c/WINDOWS/System32/sechost.dll
+        RPCRT4.dll => /cygdrive/c/WINDOWS/System32/RPCRT4.dll
+        bcrypt.dll => /cygdrive/c/WINDOWS/System32/bcrypt.dll
+        CRYPT32.dll => /cygdrive/c/WINDOWS/System32/CRYPT32.dll
+        ucrtbase.dll => /cygdrive/c/WINDOWS/System32/ucrtbase.dll
+        WS2_32.dll => /cygdrive/c/WINDOWS/System32/WS2_32.dll
+        VERSION.dll => /cygdrive/c/WINDOWS/SYSTEM32/VERSION.dll
+
+```
+
+Linux
 ```
 $ ldd scrumdog
 
@@ -34,6 +54,6 @@ $ ldd scrumdog
         libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2
         libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6
         /lib64/ld-linux-x86-64.so.2
-
 ```
+
 

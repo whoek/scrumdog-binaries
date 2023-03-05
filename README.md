@@ -2,11 +2,9 @@
 
 For more details see:
 
-Scrumdog website - https://scrumdog.app/  
-
-Blog post on my personal website on Why and How Scrumdog was created - https://whoek.com/b/jira-to-sqlite-with-scrumdog
-
-Scrumdog Source code - https://github.com/whoek/scrumdog
+- Scrumdog website - https://scrumdog.app/  
+- Blog post on [Why and How Scrumdog was created](https://whoek.com/b/jira-to-sqlite-with-scrumdog)
+- Source  code - https://github.com/whoek/scrumdog
 
 ## To Install
 

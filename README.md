@@ -14,8 +14,8 @@ For more details see:
 
 Raise an [Github Issue](https://github.com/whoek/scrumdog-binaries/issues/new)  or email willem@matimba.com
 
-## Chanelog
-
+## Changelog
+```
 Release 0.5 Build 610 - March 4, 2023
 - Remove dependancy on curl
 - Move from curl to ocaml-tls
@@ -33,5 +33,4 @@ Release 0.2 - June 26, 2022
 
 Release 0.1 - June 16, 2022
 - Change tablename from zz to zz_issues
-
-
+```

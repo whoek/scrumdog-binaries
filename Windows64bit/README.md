@@ -1,6 +1,6 @@
 ## Installation
 
-- Download the `scrumdog.exe` file by selecting the file, then press `Download raw fle`
+- Download the `scrumdog.exe` file by selecting the file, then press `Download raw file`
 - Save file to somewhere suitable on your machine 
 - Run it via Command Line
 

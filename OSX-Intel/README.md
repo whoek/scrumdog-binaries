@@ -1,6 +1,7 @@
 ## Installation
 
-- Download `scrumdog` to somewhere suitable on your machine 
+- Download the `scrumdog` file by selecting the file, then press `Download raw file`
+- Save file to somewhere suitable on your machine 
 - Run it via Command Line  `./scrumdog`
 
 Scrumdog for Mac was created with:

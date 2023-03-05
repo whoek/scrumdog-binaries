@@ -22,13 +22,18 @@ Operating System: Debian GNU/Linux 10 (buster)
 
 ## Pre-requisites
 
-`ldd scrumdox.exe`
+```
+$ ldd scrumdog
 
-- linux-vdso.so.1 
-- libsqlite3.so.0 => /lib/x86_64-linux-gnu/libsqlite3.so.0
-- libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 
-- libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6)
-- libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 
-- libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 
-- /lib64/ld-linux-x86-64.so.2 
+        linux-vdso.so.1 
+        librt.so.1 => /lib/x86_64-linux-gnu/librt.so.1 
+        libgmp.so.10 => /lib/x86_64-linux-gnu/libgmp.so.10 
+        libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0
+        libsqlite3.so.0 => /lib/x86_64-linux-gnu/libsqlite3.so.0
+        libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6 
+        libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2
+        libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6
+        /lib64/ld-linux-x86-64.so.2
+
+```
 

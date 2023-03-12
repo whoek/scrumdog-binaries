@@ -16,7 +16,7 @@ Raise an [Github Issue](https://github.com/whoek/scrumdog-binaries/issues/new)  
 
 ## Changelog
 ```
-Release 0.50 Build 614 - March 12, 2023
+Release 0.50 Build 648 - March 12, 2023
 - Clean-up http response error reporting
 
 Release 0.50 Build 610 - March 4, 2023

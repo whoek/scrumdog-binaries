@@ -10,6 +10,7 @@ Scrumdog for Windows was created with:
 
 - OCaml version 4.12.0+mingw64c
 - Microsoft Windows 10 Pro,  version 10.0.19044
+- SQLite version 3.41.0
 
 
 ## Shared object dependencies

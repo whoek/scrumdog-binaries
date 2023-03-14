@@ -6,7 +6,7 @@
 
 ## Environment
 
-Scrumdog for Mac was created:
+Scrumdog for macOS was created:
 
-- On: macOS Catalina  Version 10.15.7
-- With compiler: [OCaml](https://ocaml.org/) version 5.0.0
+- On macOS Catalina  Version 10.15.7
+- With [OCaml](https://ocaml.org/) compiler: version 5.0.0

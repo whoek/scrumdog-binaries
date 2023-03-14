@@ -18,7 +18,7 @@ Operating System: Debian GNU/Linux 10 (buster)
 ```
 `ocamlopt --version`
 ```
-5.o.o
+5.0.0
 ```
 
 ## Shared object dependencies

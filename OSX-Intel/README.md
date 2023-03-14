@@ -8,4 +8,4 @@
 
 Scrumdog for Mac was created with:
 
-- [OCaml](https://ocaml.org/) version 5.0
+- [OCaml](https://ocaml.org/) version 5.0.o

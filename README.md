@@ -16,6 +16,9 @@ Raise an [Github Issue](https://github.com/whoek/scrumdog-binaries/issues/new)  
 
 ## Changelog
 ```
+Release 0.50 Build 655 - March 18, 2023
+- Add authentication for get-fields call
+
 Release 0.50 Build 648 - March 12, 2023
 - Clean-up http response error reporting
 

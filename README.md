@@ -16,6 +16,8 @@ Raise an [Github Issue](https://github.com/whoek/scrumdog-binaries/issues/new)  
 
 ## Changelog
 ```
+Release 0.51 Build 667 - April 2, 2023
+- Output Excel friendy csv files for every table
 
 Release 0.50 Build 657 - March 19, 2023
 - Fix field parsing issue for Linux version

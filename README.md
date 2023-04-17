@@ -8,6 +8,8 @@ Download executable for: [Windows](https://github.com/whoek/scrumdog-binaries/ra
 [macOS](https://github.com/whoek/scrumdog-binaries/raw/main/OSX-Intel/scrumdog) or
 [Linux](https://github.com/whoek/scrumdog-binaries/raw/main/Linux-Intel-64bit/scrumdog)
 
+Another option is to build the execution file from [source](https://github.com/whoek/scrumdog)
+
 ## Support 
 
 For more details see:

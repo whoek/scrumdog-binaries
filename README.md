@@ -16,11 +16,11 @@ Raise an [Github Issue](https://github.com/whoek/scrumdog-binaries/issues/new)  
 
 ## Changelog
 ```
-Release 0.51 Build 667 - April 2, 2023
+Release 0.51 - April 2, 2023
 - Add 'csv' folder
 - Output Excel friendy csv files for every table
 
-Release 0.50 Build 657 - March 19, 2023
+Release 0.50 - March 19, 2023
 - Remove dependancy on curl
 - Move from curl to ocaml-tls
 - Clean-up http response error reporting

@@ -17,7 +17,7 @@ For more details see:
 - Scrumdog website - https://scrumdog.app/  
 - Blog post on [Why and How Scrumdog was created](https://whoek.com/b/jira-to-sqlite-with-scrumdog)
 
-If you have any issues, comments or questions - either raise a [Github Issue](https://github.com/whoek/scrumdog-binaries/issues/new) or email me at willem@matimba.com
+If you have any issues, comments or questions - either raise a [Github Issue](https://github.com/whoek/scrumdog/issues/new) or email me at willem@matimba.com
 
 ## Changelog
 ```

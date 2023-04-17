@@ -4,6 +4,11 @@
 
 Scrumdog is distributed as a single executable file. No installation is required. Just copy the file somewhere suitable on your machine and run it. 
 
+Download executable for 
+(Windows)[https://github.com/whoek/scrumdog-binaries/raw/main/Windows64bit/scrumdog.exe]
+(macOS)
+(Linux)
+
 ## Support 
 
 For more details see:

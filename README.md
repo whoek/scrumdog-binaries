@@ -8,7 +8,7 @@ Executable file is available for [Windows](https://github.com/whoek/scrumdog-bin
 [macOS](https://github.com/whoek/scrumdog-binaries/raw/main/OSX-Intel/scrumdog) or
 [Linux](https://github.com/whoek/scrumdog-binaries/raw/main/Linux-Intel-64bit/scrumdog).
 
-Another option is to build the execution file from [source](https://github.com/whoek/scrumdog).
+Another option is to build the execution file from [source](https://github.com/whoek/scrumdog). 
 
 ## Support 
 
